@@ -19,8 +19,8 @@ A simple web-based Grocery Shop Management System designed to help manage produc
 - HTML5  
 - CSS3  
 - JavaScript  
-- Bootstrap (if used)  
-- Firebase / LocalStorage (if used)
+- Bootstrap 
+- Firebase / LocalStorage 
 
 ---
 
